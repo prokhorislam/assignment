@@ -113,6 +113,7 @@ padding: 117px 47px 51px 47px;
 .sec1-h3{
     display: flex;
     justify-content: center;
+    margin-bottom: 130px;
 }
 .h5-1{
     color: #272727;
@@ -142,5 +143,44 @@ padding: 117px 47px 51px 47px;
 }
 /* creative part */
 .sec2{
-    
+    display: flex;
+    border-top: 20px;
+}
+.creative{
+    padding-top: 20px;
+height: 450px;
+width: 50vw;
+background-color: rgb(207, 243, 231);
+}
+.creative2{
+    padding-top: 20px;
+    height: 450px;
+    width: 50vw;
+    background-color: rgb(213, 248, 248);
+
+
+}
+ .first-girl{
+    width: 510px;
+    height: 340px;
+    padding-left: 24vw;
+}
+#boy1{
+    color: #FFF;
+font-size: 25px;
+font-weight: 700;
+}
+#girl1{
+    color: #FFF;
+font-size: 25px;
+font-weight: 700;
+}
+.creative-heading-h2{
+    font-size: 35px;
+}
+.creative-heading{
+font-size: 35px;
+display: flex;
+justify-content: center;
+margin-bottom: 20px;
 }
