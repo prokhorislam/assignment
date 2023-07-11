@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 850px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    display: flex;
+    height: 850px;
+    width: 1920px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.first-heading{
+    color: #272727;
+font-size: 80px;
+height: 290px;
+width: 710px;
+}
+.first-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+max-resolution: 32px 0px;
+}
+.heading{
+    width: 710px;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    margin-left: 240px;
+    margin-right: 100px;
+}
+.picture1{
+    width: 635px;
+    height: 800px;
+    margin-right: 240px;
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.first-button{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+}
