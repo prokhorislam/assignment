@@ -28,6 +28,7 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
 max-resolution: 32px 0px;
+margin: 32px 0px;
 }
 .heading{
     width: 710px;
@@ -253,7 +254,44 @@ margin-right: 24px;
 .sec4-3{
     margin-right: 24px;
 }
-.sec4-4{
+
+/* section 5 */
+.sec5{
+    display: flex;
+    justify-content: center;
+    
+}
+.sec5-bi{
+    background-image:url(../Rec9.png);
+    width: 1440px;
+    height: 450px;
+}
+.sec5-h4{
+    color: #272727;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+.sec5-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-top: 15px;
+}
+.sec5-form{
 
 }
-/* section 5 */
+.sec5-input{
+    width: 700px;
+height: 64px;
+color: rgba(39, 39, 39, 0.60);
+font-size: 25px;
+font-weight: 400;
+margin-left: 287px;
+margin-right: 16px;
+}
+/* footer part */
+
